@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/dubey22rohit/go-kube-sales/foundation/logger"
+	"github.com/dubey22rohit/service/foundation/logger"
 )
 
 var build = "develop"
