@@ -32,6 +32,6 @@ CMD ["./sales-api"]
 LABEL org.opencontainers.image.created="${BUILD_DATE}" \
     org.opencontainers.image.title="sales-api" \
     org.opencontainers.image.authors="Rohit Dubey <dubey22rohit@gmail.com>" \
-    org.opencontainers.image.source="https://github.com/dubey22rohit/go-kube-sales-service/tree/master/app/services/sales-api" \
+    org.opencontainers.image.source="https://github.com/dubey22rohit/go-kube-sales-service/blob/master/service/app/services/sales-api" \
     org.opencontainers.image.revision="${BUILD_REF}" \
     org.opencontainers.image.vendor="Rohit Dubey"
